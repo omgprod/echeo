@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Échéo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f8cf0"/>
+      <stop offset="1" stop-color="#2a59c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#g)"/>
+  <!-- shield -->
+  <path d="M60 26 L86 36 V60 C86 78 74 90 60 96 C46 90 34 78 34 60 V36 Z"
+        fill="rgba(255,255,255,.14)" stroke="rgba(255,255,255,.55)" stroke-width="2.5"/>
+  <!-- check -->
+  <path d="M48 61 L57 70 L74 50" fill="none" stroke="#fff" stroke-width="6.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
